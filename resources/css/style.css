@@ -24,6 +24,6 @@ div::before {
   background: url("../images/warren_fish2.jpg");
   background-position: top left;
   background-size: 100% 100%;
-  filter: saturate(3.0) contrast(150%) invert(4.5);
+  filter: saturate(3) contrast(150%) invert(4);
   mix-blend-mode: multiply;
 }
