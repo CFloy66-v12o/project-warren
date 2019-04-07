@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+@media screen and (min-width: 240px;){
+  p {
+  text-align: center; 
+  }
+}
+
+
 div {
   /* this height and width values are specific to this example */
   width: 95vw;
