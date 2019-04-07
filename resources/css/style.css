@@ -27,3 +27,8 @@ div::before {
   filter: saturate(6) contrast(150%) invert(10);
   mix-blend-mode: multiply;
 }
+
+.contact p{
+  text-align: center;
+  font-size: 22px;
+}
