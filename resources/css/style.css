@@ -24,6 +24,6 @@ div::before {
   background: url("../../resources/images/bubs&me2_opt.jpg");
   background-position: top left;
   background-size: 100% 100%;
-  filter: saturate(3) contrast(150%) invert(4);
+  filter: saturate(6) contrast(150%) invert(10);
   mix-blend-mode: multiply;
 }
