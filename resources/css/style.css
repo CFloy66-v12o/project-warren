@@ -4,8 +4,9 @@
 }
 
 @media screen and (min-width: 240px;){
-  p {
-  text-align: center; 
+  .contact p {
+  text-align: center;
+  padding-top: 10px;
   }
 }
 
